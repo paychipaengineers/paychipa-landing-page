@@ -567,7 +567,6 @@ const Index = () => {
               businesses."
             </p>
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-secondary" />
               <div>
                 <div className="font-semibold">Small Business Owners</div>
                 <div className="text-sm text-muted-foreground">
@@ -589,7 +588,6 @@ const Index = () => {
               smoothly."
             </p>
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-secondary" />
               <div>
                 <div className="font-semibold">Freelancers & Creatives</div>
                 <div className="text-sm text-muted-foreground">
@@ -610,7 +608,6 @@ const Index = () => {
               Banking that actually makes our lives easier, not harder."
             </p>
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-secondary" />
               <div>
                 <div className="font-semibold">Everyday Africans</div>
                 <div className="text-sm text-muted-foreground">
